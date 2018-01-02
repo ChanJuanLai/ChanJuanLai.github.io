@@ -11,9 +11,9 @@
   image: Tableau.gif
 
 - title: 学习笔记
-  url: /portfolio/
+  url: /infovis/
   excerpt: "个人学习心得"
-  image: heart.gif
+  image: heart.gif 
 
 - title: 联络我
   url: /me/
