@@ -10,6 +10,10 @@
   excerpt: "信息可视化个人作品"
   image: Tableau.gif
 
+- title: 学习笔记
+  url: /portfolio/
+  excerpt: "个人学习心得"
+  image: Tableau.gif
 
 - title: 联络我
   url: /me/
