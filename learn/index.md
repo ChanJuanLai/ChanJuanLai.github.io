@@ -6,7 +6,7 @@ modified:
 excerpt: "个人学习小方法"
 tags: []
 image: 
-  feature: me.jpg
+  feature: learn.jpg
   teaser:
 ---
 如何学好网页设计？
