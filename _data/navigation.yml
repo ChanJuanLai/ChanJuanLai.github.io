@@ -1,17 +1,17 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /week/
+  url: /portfolio/
   excerpt: "网页设计个人作品"
   image: web.gif
 
 - title: 信息可视化作品集
-  url: /portfolio/
+  url: /infovis/
   excerpt: "信息可视化个人作品"
   image: Tableau.gif
 
 - title: 学习笔记
-  url: /infovis/
+  url: /learn/
   excerpt: "个人学习心得"
   image: heart.gif 
 
