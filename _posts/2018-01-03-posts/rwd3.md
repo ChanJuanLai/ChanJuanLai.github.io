@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "出现问题啦"
+title: "网站出现状况"
 date: 2018-1-03T11:40:45-04:00
 modified:
-excerpt: "怎么办呢？这是我出现过的问题"
+excerpt: "当网站出现图片中的问题，该如何解决。"
 tags: []
 image: 
-  feature: post2.jpg
+  feature: post2.2.jpg
   teaser: post2.2.jpg 
 ---
 不知道你们有没有出现过我上面图片的情况？不过问过好像很多人也是有试过这样，下面是我解决的方法。
