@@ -1,11 +1,10 @@
 ---
 layout: article
-title: "如何搭建属于自己的网站？"
-date: 2018-1-03T11:40:45-04:00
-modified:
+title:  "如何搭建属于自己的网站"
+date:   2018-01-02 13:15:50 +0800
 excerpt: "搭建自己的个人网站"
-tags: []
-image: 
+categories:rwd
+image:
   feature: post3.png
   teaser: post3.png
 ---
