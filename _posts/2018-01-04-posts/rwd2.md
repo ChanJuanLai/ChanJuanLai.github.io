@@ -3,7 +3,7 @@ layout: article
 title: "网页设计学习小方法"
 date: 2018-1-03T11:40:45-04:00
 modified:
-excerpt: "推荐推荐"
+excerpt: "推荐一些小方法，可以帮助大家更好地学习网页设计"
 tags: []
 image: 
   feature: rwd.jpg
