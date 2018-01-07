@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title:  "如何搭建属于自己的网站？"
 date:   2018-1-03T11:40:45-04:00
 categories: rwd
