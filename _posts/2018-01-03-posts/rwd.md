@@ -1,13 +1,11 @@
 ---
 layout: article
-title: "如何搭建属于自己的网站？"
-date: 2018-1-03T11:40:45-04:00
-modified:
-excerpt: "搭建自己的个人网站"
-tags: []
-image: 
-  feature: post3.png
+title:  "如何搭建属于自己的网站？"
+date:   2018-1-03T11:40:45-04:00
+categories: rwd
+image:
   teaser: post3.png
+  feature: post3.png
 ---
 如何搭建属于自己的网站？
 1. 先找到一个模板，然后登录自己的GitHub，建立一个仓库，再去他的GitHub仓库里面fork他的模板，再去setting里面改成自己GitHub的username。
